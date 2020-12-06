@@ -1,0 +1,15 @@
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.exe
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.deps.json
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.runtimeconfig.json
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.runtimeconfig.dev.json
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.dll
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\bin\Debug\netcoreapp3.1\pruebaMasivian.pdb
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.csprojAssemblyReference.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.Form1.resources
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.csproj.GenerateResource.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.AssemblyInfoInputs.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.AssemblyInfo.cs
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.csproj.CoreCompileInputs.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.dll
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.pdb
+C:\Users\mayko\OneDrive - universidadean.edu.co\PruebasPracticas\Masivian\pruebaMasivian\obj\Debug\netcoreapp3.1\pruebaMasivian.genruntimeconfig.cache
